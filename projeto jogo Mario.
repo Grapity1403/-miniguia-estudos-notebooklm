@@ -1,0 +1,61 @@
+# 🎮 Mario Aventure
+
+## 📖 Introdução à História
+O jogo **Mario Aventure** é uma experiência narrativa de aventura onde o jogador controla Mario em uma jornada diferente das tradicionais. Ao invés de focar apenas em ação, o jogo destaca as decisões do jogador como elemento central.
+
+A história começa com o desaparecimento misterioso da Princesa Peach após um evento estranho no castelo. Durante a busca, Mario descobre que existe uma força desconhecida além de Bowser influenciando o Reino dos Cogumelos.
+
+Ao longo da jornada, o jogador decide em quem confiar, quais caminhos seguir e como lidar com conflitos, influenciando diretamente o desenrolar da história e levando a diferentes finais.
+
+---
+
+## ⚙️ Mecânicas Principais
+
+- **Escolhas e Consequências**
+  - Decisões afetam eventos, personagens e finais
+
+- **Exploração por Caminhos**
+  - Rotas diferentes como florestas, cavernas e vilas
+  - Cada caminho oferece experiências únicas
+
+- **Sistema de Vida Simples**
+  - Pontos de vida básicos
+  - Recuperação com itens como cogumelos
+
+- **Interação com NPCs**
+  - Diálogos e pequenas missões
+  - Escolha entre ajudar ou ignorar personagens
+
+- **Combate Básico**
+  - Opções: atacar, defender ou fugir
+
+---
+
+## 🎯 Público-Alvo
+
+- Jogadores casuais  
+- Fãs do universo Mario  
+- Pessoas que gostam de jogos narrativos  
+- Iniciantes no desenvolvimento de jogos  
+
+**Faixa etária recomendada:** 10 anos ou mais
+
+---
+
+## 🎨 Estilo Gráfico ou Visual
+
+- Estilo **2D colorido e cartunesco**
+- Inspirado nos jogos clássicos do Mario
+- Interface simples e intuitiva
+- Cenários variados:
+  - Florestas
+  - Castelos
+  - Vilas
+
+---
+
+## ✅ Conclusão
+
+**Mario Aventure** é um jogo simples e focado em narrativa, onde as escolhas do jogador definem o rumo da história. Com mecânicas fáceis de implementar e um estilo visual acessível, o projeto é ideal tanto para entretenimento quanto para aprendizado no desenvolvimento de jogos.
+
+O jogo oferece múltiplas experiências através de finais diferentes, incentivando a rejogabilidade e o envolvimento do jogador.
